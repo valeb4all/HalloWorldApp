@@ -2,8 +2,11 @@
 public class HalloWorld {
 
 	public static void main(String[] args) {
-	//	System.out.println("Привет Мир!!!");
 
+		int a=1;
+		
+		System.out.println(a++);
+		System.out.println(a);
 	}
 
 	
